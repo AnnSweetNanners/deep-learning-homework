@@ -19,7 +19,7 @@ This assignment utilizes the following libraries:
 ## II. Summary of findings
 After reviewing both models, the model utilizing closing prices more accurately predicted the nth closing price than the model utilizing the FNG index.
 
-## Questions
+## III. Questions
 > Which model has a lower loss?
 > 
 > * The closing model had a lower loss than the FNG model.
